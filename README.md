@@ -1,5 +1,6 @@
 # IEEE GRSL
-The data used in ur paper [1]Z. Lin, Y. Lei, X. Yongsheng, Y. Fanlin, and Z. Xinghua, “Retrieving wave parameters with PPP mode from GNSS buoy measurements,” IEEE Geoscience and Remote Sensing Letters, vol. Under Rreview, 2020.
+Here is the data used in paper [1]Z. Lin, Y. Lei, X. Yongsheng, Y. Fanlin, and Z. Xinghua, “Retrieving wave parameters with PPP mode from GNSS buoy measurements,” IEEE Geoscience and Remote Sensing Letters, vol. Under Rreview, 2020.
+I wish it would be useful for people who have interest in this domain.
 
 # Data link
 Because the data is in big size, I upload them to the cloud intead of Github.
